@@ -22,6 +22,5 @@ if __name__ == "__main__":
     # se llama a la función dec2bin() para hacer la conversión
     numero_binario = dec2bin(numero_decimal, numero_bits)
 
-    # Muestra por pantalla el resultado.
-    # Para imprimir un entero es necesario convertirlo a string con str()
+#fjkcjcjcjcjcjcjcjcjcjcjcjcjcjcjjcjcjjcjcjcjjcjcjcjjcjcjjcjcjcjjcjcjcjjcjcjc
     print("El numero " + str(numero_decimal) + " es " + numero_binario + " en binario con " + str(numero_bits) + " bits.")
